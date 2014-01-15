@@ -108,7 +108,9 @@ sudo apt-get install -y python-dev libmysqlclient-dev
 sudo apt-get install -y testdisk
 sudo apt-get install -y policycoreutils
 sudo apt-get install -y mailman postfix
-
+sudo apt-get install -y shutter
+sudo apt-get install -y libxerces-c3.1 libxerces-c-dev libicu-dev
+sudo apt-get install -y libxml++2.6-dev libxml++2.6-doc
 
 
 #Look And Feel
